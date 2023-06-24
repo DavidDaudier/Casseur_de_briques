@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611363345 source:c:\users\david daudier\documents\fichier codeblocks\craseur de bricks\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
